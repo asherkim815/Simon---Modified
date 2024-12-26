@@ -1,8 +1,9 @@
-Modified: https://asherkim815.github.io/simon-modified/
+- Modified site: https://asherkim815.github.io/simon-modified/
+- Original site: https://asherkim815.github.io/simon-original/
+- Original repo: https://github.com/asherkim815/simon-original
 
-Original: https://asherkim815.github.io/simon-original/
-
-This project came from a Udemy course by Angela Yu, The Complete 2024 Web Development Bootcamp.
+This project came from a Udemy course by Angela Yu, The Complete 2024 Web Development Bootcamp.\
+You can check out the original version via the links above.
 
 I modified it the following way:
 
